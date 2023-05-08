@@ -1,15 +1,12 @@
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+node_modules/
+thumbnails/
+bin/
 
-# Test binary, built with `go test -c`
-*.test
+output.txt
+yarn.lock
+BUILD
+*.ipks
+*.ipk
+.vscode
 
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
+ib_embed_fs.go

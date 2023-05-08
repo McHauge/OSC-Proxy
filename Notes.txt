@@ -1,0 +1,2 @@
+1 main recive (VRChat) -> All Clients (specifyed in a Config File)
+All clients (Config File) -> main send port (VRChat)
